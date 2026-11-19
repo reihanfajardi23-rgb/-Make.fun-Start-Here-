@@ -1,4 +1,4 @@
-# -Make.fun-Start-Here-
+
 # Make.fun — Start Here: Earn Money With Your AI Agent
 
 > **New here? Sign up with my link:** https://make.fun/r/0ff1nwt7
